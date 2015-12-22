@@ -1,0 +1,11 @@
+{
+  "type": "service_account",
+  "private_key_id": "aca3b9893466ff46b60b9939293f1ac77cf83b34",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTYUbATivk87hv\nTqWvyNYxSrfcTZzsTFVDfeQ6xxvwP2DU3MLLLiD4tNcBJJE1DoE7OY+hE8pKI6By\njJUT8n9SWmMNIRWUcCQ5W1h9ScjVtgfCOOTJj0/Bg1E48ibHDSP9UxjprM8GfgmT\n4NngTBKZp8JiWuD8gpLhgEFSY6TgoWw2C4xkKuSzsHrNoPZocl3n25xxSm+BYVzM\nqHNncfCM9UdyEyeQPF+wXKQdt8ZTB/BN8X41cWdFcd8KBHpT6We9z3WNXRF7IJs1\nm78kTsGC7ifByLzNNZfj8pCV00BabLN3/ux/53oRMrig76nG54vyAFMX3qj9+8pt\no/wJY4o1AgMBAAECggEAUIAg2ieYuD0br8ignaywuknatb27CiMDq5LXF/fr3cVw\nibRvvfVbUx3MFra3jeh3VDczqcMainZ9TDRXtYaOXxg55FD+7Y53atDnO8ASsBD2\nmfLjnOjnooas1dMGtVELKHK8N98JUb2EU77Mo0RKIJ3OglSrcaGMwxmAFJWS2JLb\nWe6A+vPvK/8rsLR2qHRm6hFrh5bDpmmsFbRjX71eMKslRzZ9Xqwt/Fo+V3+2zSct\ntMtoEiKJDBSoh46wibA3MEhM5RwB3NfOhSwWGagM34wtoF5V+izRhN+SUg1+on9T\nLQqwzkm4RLYmwXdfguVt3Fs+winOBQCW2ECMZ13qHQKBgQDreOwU415O+ykNbQSH\nMQsmHG8iEf2wHRyU8Jm2H5QV4qSvwECG7pha/xqyZ5cCWafjrHL2VZXaIhdSj1GY\nxubXAM0/kU3rxgkXONUKMZ5K5I3galuxheVOBF/iVT5HeiNgpklcBEO2icEVFQBv\njQsROWN793Q6TA52H6/YJ/5xuwKBgQCgOmGh7ejEjIYVxBnL6feNgiXRSm/cBlbi\nc/5egkuzY6um9dsl1w7ZVFZbSGVcJoeODPNxg+LEDLFiYJKvQluhWPiIoX57J2Gf\nkhYzRAOuS6QHt+nVi9GWt70jKqoBvJ9bjjyDWmOPtOjkk86qx9MprOmClFRRoDVn\nEFkvbj18zwKBgGzgsdCKvU2pxnalxOU54RzTIvPO+81V+KRJh9l1SoTAEkQNkgiS\nBDJ3KIH7chCtIfsc/t81/Z8qCjyrdiA9P/mELmNJLY1qOUPajG81OCsK+SseIp23\n+qoTTb6aibyFFhyXZu48Lo8VrQixeE0cG1TwgzaL2dsm1bz6s9Uv0PAHAoGAKGzy\nax+SZdyqi91RQOCEA+D9V6O3O0UiMLphSEkJfnY8PcC0DQUIiw67RwaqBCj4dH+S\nAGbtFNe6/X4uJCfS5I+FDTvppHrYJ6F9FmwnnZcaCJR/W9CODb/H6ZJ/GDcV4cyu\nOdnZWs2jIOCl+PK3tUEaHUb9SybnslwulEf1HYMCgYAW5ucpTb4lcCTsdrwvX0QN\nJx1KtVGgId5KiW+f6dWBVFrxnC2PcebLWZ7xf+AQDRJiCEL0YtVeP27J8aoammzl\nlb3rGV7Om9UkgK2f05e05WXTQTFM695WCAPuTW0Eg4utA3l2e2pL7iNV7RidDrcu\nL+fBSpmmYvdvv65cG9NT/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "account-2@bankdataremitr.iam.gserviceaccount.com",
+  "client_id": "101953236968244996680",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account-2%40bankdataremitr.iam.gserviceaccount.com"
+}
